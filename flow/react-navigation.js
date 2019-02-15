@@ -382,6 +382,7 @@ declare module 'react-navigation' {
     headerBackImage?: React$Node | React$ElementType,
     headerTruncatedBackTitle?: string,
     headerBackTitleStyle?: TextStyleProp,
+    headerBackAllowFontScaling?: boolean,
     headerPressColorAndroid?: string,
     headerRight?: React$Node,
     headerStyle?: ViewStyleProp,
